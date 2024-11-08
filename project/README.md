@@ -2,7 +2,7 @@
 
 Welcome to the Sudoku Game, a tribute to the timeless puzzle classic that many of us have turned to during our quiet moments—seeking both challenge and solace. This game, built using Python and Pygame, offers a digital escape into a world of numbers and logic, much like the penciled grids from newspapers and puzzle books that kept us company during quieter times, perhaps even hospital stays.
 
-## Video Demo:   
+## Video Demo:   https://youtu.be/veqLSZ15ko4 
 
 ## Overview
 
