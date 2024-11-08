@@ -30,7 +30,7 @@ To run this game, you’ll need:
 1. Clone this repository to your local machine using:
 
    ```bash
-   git clone https://github.com/yourusername/sudoku-game.git
+   git clone https://github.com/rtmali/cs50x_project/tree/main/project.git
    ```
 
 2. Navigate to the project directory:
